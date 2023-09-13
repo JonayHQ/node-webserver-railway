@@ -1,0 +1,13 @@
+aplicacion consola, para crear servidor web.
+
+Para la creacion del webServer se hace uso de express y para la muestra del html se hace uso de handlebar
+
+Se realizan peticiones de al servidor y dando respuesta desde el servidor para mostrar el html.
+
+express es un framework node para creacion de webserver y restApi.
+
+
+
+npm nodemon - reiniciar consola automaticamente, tras grabar.
+npm handlebar - renderiza la pagina, pudiendo reutilizar componentes o elementos y enviar parametros al html desde el backend
+
